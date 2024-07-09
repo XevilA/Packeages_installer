@@ -12,7 +12,7 @@ pip install opencv-contrib-python
 pip install PyQt6
 
 rem Run your Python script (replace script_name.py with your actual Python script)
-python dotmini.py
+python dotmini_windows.py
 
 rem Pause to keep the window open after execution (optional)
 pause
