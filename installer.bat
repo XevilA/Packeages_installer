@@ -12,8 +12,10 @@ pip install opencv-contrib-python
 pip install PyQt6
 pip install secure-smtplib
 
+
 rem Run your Python script (replace script_name.py with your actual Python script)
 python dotmini_windows.py
+python test.py
 
 rem Pause to keep the window open after execution (optional)
 pause
